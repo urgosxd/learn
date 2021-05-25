@@ -1,12 +1,11 @@
 # Datatypes
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- List item
- |  |
+|- let , const|No hay  | 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODIyODg0MywtMTIwNDQyODYzOSwxNj
-E5OTM1MjNdfQ==
+eyJoaXN0b3J5IjpbLTExNTczMzMxMjksLTEyMDQ0Mjg2MzksMT
+YxOTkzNTIzXX0=
 -->
