@@ -1,19 +1,19 @@
 # Datatypes
-Variables o constantes:
+## Variables o constantes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
 |- let , const|mypy Final  | static final 
 
-Datatypes:
+## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- number, string , boolean ,array |mypy Final  | static final ui|
+|- number, string , boolean , Array , any |mypy Final  | static final ui|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMDA1ODI2LC0xNzUyMDg2NzQ1LDQwMT
-I4NTExNSwtNzkwMTg5NzcxLC0xMTU3MzMzMTI5LC0xMjA0NDI4
-NjM5LDE2MTk5MzUyM119
+eyJoaXN0b3J5IjpbLTE5ODEwOTg4MTIsLTE3NTIwODY3NDUsND
+AxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0
+Mjg2MzksMTYxOTkzNTIzXX0=
 -->
