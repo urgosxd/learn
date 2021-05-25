@@ -8,12 +8,12 @@
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
 |- number, string , boolean , Array , null , undefined , void , bigint |mypy Final  | static final ui|
-|interface , type ,never, any , enums , "literals"  ||
+|interface , type ,never, any , enums , "literals", enums  | |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTkyODQzLC0xNzUyMDg2NzQ1LDQwMT
-I4NTExNSwtNzkwMTg5NzcxLC0xMTU3MzMzMTI5LC0xMjA0NDI4
-NjM5LDE2MTk5MzUyM119
+eyJoaXN0b3J5IjpbMTE2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NT
+IwODY3NDUsNDAxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMx
+MjksLTEyMDQ0Mjg2MzksMTYxOTkzNTIzXX0=
 -->
