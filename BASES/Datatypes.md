@@ -7,13 +7,13 @@ Variables o constantes:
 Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- asd|mypy Final  | static final ui|
+|- asd asdfsadfasdfasdfsadfasdf 	asdfsdsafsadfsd|mypy Final  | static final ui|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ5OTQyMTMsLTE3NTIwODY3NDUsND
-AxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0
-Mjg2MzksMTYxOTkzNTIzXX0=
+eyJoaXN0b3J5IjpbLTEwMjM0MDk1MywtMTc1MjA4Njc0NSw0MD
+EyODUxMTUsLTc5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMTIwNDQy
+ODYzOSwxNjE5OTM1MjNdfQ==
 -->
