@@ -1,11 +1,13 @@
 # Datatypes
+
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- let , const|No hay  | static final 
+|- let , const|mypy Final  | static final 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMT
-IwNDQyODYzOSwxNjE5OTM1MjNdfQ==
+eyJoaXN0b3J5IjpbMTY5MzIwNzcwNywtNzkwMTg5NzcxLC0xMT
+U3MzMzMTI5LC0xMjA0NDI4NjM5LDE2MTk5MzUyM119
 -->
