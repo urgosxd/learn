@@ -8,12 +8,12 @@
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
 |- number, string , boolean , Array , any |mypy Final  | static final ui|
-
+|null||
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODEwOTg4MTIsLTE3NTIwODY3NDUsND
+eyJoaXN0b3J5IjpbLTE3MzE1OTgwMTUsLTE3NTIwODY3NDUsND
 AxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0
 Mjg2MzksMTYxOTkzNTIzXX0=
 -->
