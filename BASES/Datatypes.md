@@ -7,14 +7,14 @@
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- number, string , boolean , Array , null , undefined , void , bigint, objects |mypy Final  | static final ui|
-|interface , type ,never, any , enums , "literals", enums  | |
+|- number, string , boolean , Array , null , undefined , void , bigint, objects |int , float , complex , list ,  | static final ui|
+|interface , type ,never, any , enums , "literals", enums  |ds |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcxNTE4NDksMTE2NDU2MDQwMSwyMD
-A1OTI4NDMsLTE3NTIwODY3NDUsNDAxMjg1MTE1LC03OTAxODk3
-NzEsLTExNTczMzMxMjksLTEyMDQ0Mjg2MzksMTYxOTkzNTIzXX
-0=
+eyJoaXN0b3J5IjpbLTEzMDA5NTQ5MzYsLTEzMjcxNTE4NDksMT
+E2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NTIwODY3NDUsNDAxMjg1
+MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0Mjg2Mz
+ksMTYxOTkzNTIzXX0=
 -->
