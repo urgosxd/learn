@@ -8,13 +8,13 @@
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
 |- number, string , boolean , Array , null , undefined , void , bigint, objects , tuple |int , float , complex , str , list , tuple , dicts| static final ui|
-|interface , type ,never, any , enums , "literals", enums  |ds |
+|interface , type ,never, any , enums , "literals", enums  |sets |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjQ3MDQwLC0xMzI3MTUxODQ5LDExNj
-Q1NjA0MDEsMjAwNTkyODQzLC0xNzUyMDg2NzQ1LDQwMTI4NTEx
-NSwtNzkwMTg5NzcxLC0xMTU3MzMzMTI5LC0xMjA0NDI4NjM5LD
-E2MTk5MzUyM119
+eyJoaXN0b3J5IjpbLTkzNjIzNzgyNiwtMTMyNzE1MTg0OSwxMT
+Y0NTYwNDAxLDIwMDU5Mjg0MywtMTc1MjA4Njc0NSw0MDEyODUx
+MTUsLTc5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMTIwNDQyODYzOS
+wxNjE5OTM1MjNdfQ==
 -->
