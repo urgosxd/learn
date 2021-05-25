@@ -7,13 +7,13 @@
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- number, string , boolean , Array , any |mypy Final  | static final ui|
-|null||
+|- number, string , boolean , Array , any , null , undefined , void |mypy Final  | static final ui|
+|never, ||
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE1OTgwMTUsLTE3NTIwODY3NDUsND
-AxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0
-Mjg2MzksMTYxOTkzNTIzXX0=
+eyJoaXN0b3J5IjpbMTc2MDgwNjM4MywtMTc1MjA4Njc0NSw0MD
+EyODUxMTUsLTc5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMTIwNDQy
+ODYzOSwxNjE5OTM1MjNdfQ==
 -->
