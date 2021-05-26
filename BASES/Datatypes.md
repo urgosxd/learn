@@ -2,8 +2,14 @@
 ## Variables o constantes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- let , const|mypy Final  | static final 
-
+|- let , const|mypy Final  | static final
+ 
+```ts
+TypeScript
+declare let hello
+declare const bye
+var NOUSAR
+```
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
@@ -13,9 +19,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NDYxMzYxLDkxODE5Mjg0NCwtMTYzND
-Q4MjIwMSw1MDUwOTU5ODksLTkzNjIzNzgyNiwtMTMyNzE1MTg0
-OSwxMTY0NTYwNDAxLDIwMDU5Mjg0MywtMTc1MjA4Njc0NSw0MD
-EyODUxMTUsLTc5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMTIwNDQy
-ODYzOSwxNjE5OTM1MjNdfQ==
+eyJoaXN0b3J5IjpbLTg2NzMyMjY0LDU3NDQ2MTM2MSw5MTgxOT
+I4NDQsLTE2MzQ0ODIyMDEsNTA1MDk1OTg5LC05MzYyMzc4MjYs
+LTEzMjcxNTE4NDksMTE2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NT
+IwODY3NDUsNDAxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMx
+MjksLTEyMDQ0Mjg2MzksMTYxOTkzNTIzXX0=
 -->
