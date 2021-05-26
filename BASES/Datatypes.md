@@ -8,10 +8,15 @@
 TypeScript
 declare let hello
 declare const bye
-var NOUSAR
+
 ```
 ```python
+Python
 hello:Final = constante
+```
+```java
+final static MiVariable
+int MyInt = 34
 ```
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
@@ -22,9 +27,9 @@ hello:Final = constante
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NjcyMTU0LDU3NDQ2MTM2MSw5MTgxOT
-I4NDQsLTE2MzQ0ODIyMDEsNTA1MDk1OTg5LC05MzYyMzc4MjYs
-LTEzMjcxNTE4NDksMTE2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NT
-IwODY3NDUsNDAxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMx
-MjksLTEyMDQ0Mjg2MzksMTYxOTkzNTIzXX0=
+eyJoaXN0b3J5IjpbLTE5NTk4NTI3MDMsNTc0NDYxMzYxLDkxOD
+E5Mjg0NCwtMTYzNDQ4MjIwMSw1MDUwOTU5ODksLTkzNjIzNzgy
+NiwtMTMyNzE1MTg0OSwxMTY0NTYwNDAxLDIwMDU5Mjg0MywtMT
+c1MjA4Njc0NSw0MDEyODUxMTUsLTc5MDE4OTc3MSwtMTE1NzMz
+MzEyOSwtMTIwNDQyODYzOSwxNjE5OTM1MjNdfQ==
 -->
