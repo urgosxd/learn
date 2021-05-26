@@ -1,14 +1,10 @@
 # POO
 
- ```gs
-<div>
-	<div>
-	Hello
-	</div>
-</div>
+ ```js
+ 
  ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjA3MDU3NSw4MzA0NzIyODcsMTc1ND
+eyJoaXN0b3J5IjpbMTY5NDAyNzE5NCw4MzA0NzIyODcsMTc1ND
 IzMTUwNV19
 -->
