@@ -10,6 +10,9 @@ declare let hello
 declare const bye
 var NOUSAR
 ```
+```python
+hello:Final = constante
+```
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
@@ -19,7 +22,7 @@ var NOUSAR
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzMyMjY0LDU3NDQ2MTM2MSw5MTgxOT
+eyJoaXN0b3J5IjpbNjU3NjcyMTU0LDU3NDQ2MTM2MSw5MTgxOT
 I4NDQsLTE2MzQ0ODIyMDEsNTA1MDk1OTg5LC05MzYyMzc4MjYs
 LTEzMjcxNTE4NDksMTE2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NT
 IwODY3NDUsNDAxMjg1MTE1LC03OTAxODk3NzEsLTExNTczMzMx
