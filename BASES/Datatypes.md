@@ -7,14 +7,14 @@
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
-|- number, string , boolean , Array , null , undefined , void , bigint, objects , tuple |int , float , complex , str , list , tuple , dicts| static final ui|
-|interface , type ,never, any , enums , "literals", enums  |sets |
+|- number, string , boolean , Array , null , undefined , void , bigint, objects , tuple |int , float , complex , str , list , tuple , dicts , Any| static final ui|
+|interface , type ,never, any , enums , "literals", enums  |set , bits , object |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjIzNzgyNiwtMTMyNzE1MTg0OSwxMT
-Y0NTYwNDAxLDIwMDU5Mjg0MywtMTc1MjA4Njc0NSw0MDEyODUx
-MTUsLTc5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMTIwNDQyODYzOS
-wxNjE5OTM1MjNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODMxMjAwOTgsLTkzNjIzNzgyNiwtMT
+MyNzE1MTg0OSwxMTY0NTYwNDAxLDIwMDU5Mjg0MywtMTc1MjA4
+Njc0NSw0MDEyODUxMTUsLTc5MDE4OTc3MSwtMTE1NzMzMzEyOS
+wtMTIwNDQyODYzOSwxNjE5OTM1MjNdfQ==
 -->
