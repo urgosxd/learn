@@ -7,7 +7,7 @@ class Hero{
 	life:number
 	atributte:string
 	damage:number
-	constructor(){
+	constructor(name:string,life:string,atributte,damage:number){
 	  this.name=name
 	  this.life=life
 	  this.atributte=atributte
@@ -19,6 +19,6 @@ class Hero{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MjM4MTg5LC0xOTI5OTAyMjMsODMwND
-cyMjg3LDE3NTQyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMD
+Q3MjI4NywxNzU0MjMxNTA1XX0=
 -->
