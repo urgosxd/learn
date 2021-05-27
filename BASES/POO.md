@@ -1,14 +1,8 @@
 # POO
+Primero veremos la forma general de declarar una clase, con atributos, constructor y sus respectivos metodos.
 
- ```ts
- let app = (hello:number)=>{
-return(
-	<div>GAAAAAAAA</div>
-)
-}
- ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk5MDIyMyw4MzA0NzIyODcsMTc1ND
-IzMTUwNV19
+eyJoaXN0b3J5IjpbLTExNTM4NTIwMzQsLTE5Mjk5MDIyMyw4Mz
+A0NzIyODcsMTc1NDIzMTUwNV19
 -->
