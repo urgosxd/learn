@@ -4,14 +4,14 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 TypeScript
 class Hero{
 	name:string
-	life:number
 	atributte:string
-	damage:number
-	constructor(name:string,life:number,atributte:string,damage:number){
+
+	constructor(name:string,atributte:string){
 	  this.name=name
-	  this.life=life
 	  this.atributte=atributte
-	  this.damage=damage
+	}
+	print(){
+	console.log(this.name+"this)
 	}
 	
 }
@@ -19,6 +19,7 @@ class Hero{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMT
-kyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbLTE4NjMwNzc0ODUsLTE2MDI2MjM0MTUsLT
+cxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMx
+NTA1XX0=
 -->
