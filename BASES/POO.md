@@ -1,25 +1,25 @@
 # POO
 Primero veremos la forma general de declarar una clase, con atributos, constructor y sus respectivos metodos.
 ```ts
-TypeScript
-class Hero{
-	name:string
-	atributte:string
+	TypeScript
+	class Hero{
+		name:string
+		atributte:string
 
-	constructor(name:string,atributte:string){
-	  this.name=name
-	  this.atributte=atributte
-	}
-	print(){
-	console.log(this.name+" "+this.atributte)
-	}
+		constructor(name:string,atributte:string){
+		  this.name=name
+		  this.atributte=atributte
+		}
+		print(){
+		console.log(this.name+" "+this.atributte)
+		}
 	
-}
-const p:Hero = new  Hero("huscar","streight")
-
-p.print()
+	}
+	const p:Hero = new  Hero("huscar","streight")
+	p.print()
 ```
 ```python
+	Python
 	class Hero:
     def __init__(self,name,atributte):
         self.name=name
@@ -29,40 +29,40 @@ p.print()
         print(self.name," ",self.atributte)
 
 
-p = Hero("Timber","streight")
-
-p.Print()
+	p = Hero("Timber","streight")
+	p.Print()
 ```
 ```java
-class Hero{
-    String name;
-    String atributte;
+	Java
+	class Hero{
+	    String name;
+	    String atributte;
     
-    public Hero(String name,String atributte){
+	    public Hero(String name,String atributte){
         this.name = name;
         this.atributte = atributte;
-    }
+	    }
     
-    public void print(){
-        System.out.println(this.name+" "+this.atributte);
-    }
-}
-
-
-
-public class Main
-{
-	public static void main(String[] args) {
-		Hero p = new Hero("tiny","streight");
-		p.print();
+	    public void print(){
+	        System.out.println(this.name+" "+this.atributte);
+	    }
 	}
-}
+
+
+
+	public class Main
+	{
+		public static void main(String[] args) {
+			Hero p = new Hero("tiny","streight");
+			p.print();
+		}
+	}
 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjc1MzQ0NiwtNzEzMTM0MjYxLC0xMj
+eyJoaXN0b3J5IjpbLTE4NDQ4ODE3NiwtNzEzMTM0MjYxLC0xMj
 Q3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5
 MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV19
 -->
