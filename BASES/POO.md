@@ -11,7 +11,7 @@ class Hero{
 	  this.atributte=atributte
 	}
 	print(){
-	console.log(this.name+"this)
+	console.log(this.name+" "+this.atributte)
 	}
 	
 }
@@ -19,7 +19,7 @@ class Hero{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMwNzc0ODUsLTE2MDI2MjM0MTUsLT
-cxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMx
-NTA1XX0=
+eyJoaXN0b3J5IjpbNjIxMzI1NDYwLC0xNjAyNjIzNDE1LC03MT
+UxNTExODYsLTE5Mjk5MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUw
+NV19
 -->
