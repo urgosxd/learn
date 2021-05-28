@@ -33,10 +33,36 @@ p = Hero("Timber","streight")
 
 p.Print()
 ```
+```java
+class Hero{
+    String name;
+    String atributte;
+    
+    public Hero(String name,String atributte){
+        this.name = name;
+        this.atributte = atributte;
+    }
+    
+    public void print(){
+        System.out.println(this.name+" "+this.atributte);
+    }
+}
+
+
+
+public class Main
+{
+	public static void main(String[] args) {
+		Hero p = new Hero("tiny","streight");
+		p.print();
+	}
+}
+
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMT
-YwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcy
-Mjg3LDE3NTQyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbMTA2Mjc1MzQ0NiwtNzEzMTM0MjYxLC0xMj
+Q3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5
+MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV19
 -->
