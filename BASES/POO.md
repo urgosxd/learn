@@ -15,11 +15,17 @@ class Hero{
 	}
 	
 }
+const p:Hero = new  Hero("huscar","streight")
+
+p.print()
+```
+```python
+	
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMzI1NDYwLC0xNjAyNjIzNDE1LC03MT
-UxNTExODYsLTE5Mjk5MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUw
-NV19
+eyJoaXN0b3J5IjpbLTEyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLT
+cxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMx
+NTA1XX0=
 -->
