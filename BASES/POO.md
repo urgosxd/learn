@@ -34,7 +34,8 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 ```
 ```java
 	Java
-	class Hero{
+	class Hero
+	{
 	    String name;
 	    String atributte;
     
@@ -62,7 +63,7 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ4ODE3NiwtNzEzMTM0MjYxLC0xMj
-Q3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5
-MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV19
+eyJoaXN0b3J5IjpbNjM2Nzg4MTM0LC03MTMxMzQyNjEsLTEyND
+cxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTkyOTkw
+MjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
 -->
