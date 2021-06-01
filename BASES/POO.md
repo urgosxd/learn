@@ -82,20 +82,16 @@ p.comer()
 ```python
 from abc import ABC, abstractmethod
 
-class SerVivo(ABC):
-    
+class SerVivo(ABC):    
     @abstractmethod
     def comer(self):
         pass
     
-    
 class Planta(SerVivo):
     def comer(self):
         print("Fotosintesis")
-        
 
 p = Planta()
-
 p.comer()
 ```
 
@@ -108,9 +104,9 @@ p.comer()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTY3NDgzNSwtMTQwMTc3MDQxMiwxMj
-A1MDYwNjAwLDE0MzM0ODAyODgsLTIwNzE1OTYyMyw4MjM5NDMx
-ODcsNjM2Nzg4MTM0LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLT
-E2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3
-MjI4NywxNzU0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbLTE4MzIyNzQ1MDUsMTE1NTY3NDgzNSwtMT
+QwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLTIwNzE1
+OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQyNjEsLT
+EyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTky
+OTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
 -->
