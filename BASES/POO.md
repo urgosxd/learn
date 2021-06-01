@@ -61,13 +61,16 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 
 ```
 ## Particularidades
+### Clases y Metodos Abstractos
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nz
-g4MTM0LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLTE2MDI2MjM0
-MTUsLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNz
-U0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbLTg3MjQzMzU2MSwtMjA3MTU5NjIzLDgyMz
+k0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYx
+MywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsOD
+MwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
 -->
