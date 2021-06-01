@@ -96,7 +96,16 @@ p.comer()
 ```
 
 ```java
+abstract class SerVivo{
+	public abstract void Comer();
+}
 
+class Planta extends SerVivo{
+	@Override
+	public void Comer(){
+	System.out.println()
+}
+}
 ```
 
 
@@ -104,7 +113,7 @@ p.comer()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIyNzQ1MDUsMTE1NTY3NDgzNSwtMT
+eyJoaXN0b3J5IjpbLTE1NDY0ODU1NDIsMTE1NTY3NDgzNSwtMT
 QwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLTIwNzE1
 OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQyNjEsLT
 EyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTky
