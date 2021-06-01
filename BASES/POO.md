@@ -63,14 +63,19 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 ## Particularidades
 ### Clases y Metodos Abstractos
 
-
+```ts
+TypeScript
+abstract class SerVivo{
+	a
+}
+```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjQzMzU2MSwtMjA3MTU5NjIzLDgyMz
-k0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYx
-MywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsOD
-MwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbNjE4OTQzNjk2LC0yMDcxNTk2MjMsODIzOT
+QzMTg3LDYzNjc4ODEzNCwtNzEzMTM0MjYxLC0xMjQ3MTEyNjEz
+LC0xNjAyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5MDIyMyw4Mz
+A0NzIyODcsMTc1NDIzMTUwNV19
 -->
