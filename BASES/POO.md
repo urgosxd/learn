@@ -51,7 +51,7 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 
 
 
-	public class Main
+	public class Main4
 	{
 		public static void main(String[] args) {
 			Hero p = new Hero("tiny","streight");
@@ -62,13 +62,12 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 ```
 ## Particularidades
 
-4421210
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NTIwMDg1LDgyMzk0MzE4Nyw2MzY3OD
-gxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYyMzQx
-NSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcyMjg3LDE3NT
-QyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nz
+g4MTM0LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLTE2MDI2MjM0
+MTUsLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNz
+U0MjMxNTA1XX0=
 -->
