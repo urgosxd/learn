@@ -70,16 +70,21 @@ abstract class SerVivo{
 	
 }
 class Planta extends SerVivo{
-	
+	comer(){
+		console.log("Fotosintesis")
+	}
 }
+
+const p = new Planta();
+p.comer()
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLDgyMz
-k0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYx
-MywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsOD
-MwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbMTIwNTA2MDYwMCwxNDMzNDgwMjg4LC0yMD
+cxNTk2MjMsODIzOTQzMTg3LDYzNjc4ODEzNCwtNzEzMTM0MjYx
+LC0xMjQ3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUxNTExODYsLT
+E5Mjk5MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV19
 -->
