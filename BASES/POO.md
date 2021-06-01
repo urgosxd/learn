@@ -62,11 +62,13 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 ```
 ## Particularidades
 
+4421210
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzOTQzMTg3LDYzNjc4ODEzNCwtNzEzMT
-M0MjYxLC0xMjQ3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUxNTEx
-ODYsLTE5Mjk5MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV19
+eyJoaXN0b3J5IjpbNjM2NTIwMDg1LDgyMzk0MzE4Nyw2MzY3OD
+gxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYyMzQx
+NSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcyMjg3LDE3NT
+QyMzE1MDVdfQ==
 -->
