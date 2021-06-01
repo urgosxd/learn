@@ -80,6 +80,7 @@ p.comer()
 ```
 
 ```python
+Python
 from abc import ABC, abstractmethod
 
 class SerVivo(ABC):    
@@ -96,6 +97,7 @@ p.comer()
 ```
 
 ```java
+Java
 abstract class SerVivo{
 	public abstract void Comer();
 }
@@ -108,7 +110,10 @@ class Planta extends SerVivo{
 }
 
 public class helloWorld{
-public static void main(String)
+public static void main(String[] args){
+	Planta p = new Planta();
+	p.Comer();
+}
 }
 ```
 
@@ -116,10 +121,11 @@ public static void main(String)
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE4NzI0NywxMTU1Njc0ODM1LC0xND
-AxNzcwNDEyLDEyMDUwNjA2MDAsMTQzMzQ4MDI4OCwtMjA3MTU5
-NjIzLDgyMzk0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMT
-I0NzExMjYxMywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5
-OTAyMjMsODMwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjU1MTEyNjksMTE1NTY3NDgzNSwtMT
+QwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLTIwNzE1
+OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQyNjEsLT
+EyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTky
+OTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
 -->
