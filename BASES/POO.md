@@ -61,7 +61,7 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 
 ```
 ## Particularidades
-### Clases y Metodos Abstractos
+### Abstraction
 
 ```ts
 TypeScript
@@ -116,6 +116,8 @@ public static void main(String[] args){
 }
 }
 ```
+### Static
+
 
 
 
@@ -123,9 +125,10 @@ public static void main(String[] args){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU1MTEyNjksMTE1NTY3NDgzNSwtMT
-QwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLTIwNzE1
-OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQyNjEsLT
-EyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTky
-OTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbNTgzMzAwMjI3LC0yMDI1NTExMjY5LDExNT
+U2NzQ4MzUsLTE0MDE3NzA0MTIsMTIwNTA2MDYwMCwxNDMzNDgw
+Mjg4LC0yMDcxNTk2MjMsODIzOTQzMTg3LDYzNjc4ODEzNCwtNz
+EzMTM0MjYxLC0xMjQ3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUx
+NTExODYsLTE5Mjk5MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV
+19
 -->
