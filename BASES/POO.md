@@ -138,6 +138,13 @@ class MyClass():
 MyClass.printX()
 ```
 ```java
+class MyClass{
+	public static int x = 0;
+	public static void printX(){
+	System.out.println(MyClass.x);
+}
+public class
+}
 
 ```
 
@@ -148,10 +155,10 @@ MyClass.printX()
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDY5MDYzLC00MDIwNTc4MjIsLTIwMj
-U1MTEyNjksMTE1NTY3NDgzNSwtMTQwMTc3MDQxMiwxMjA1MDYw
-NjAwLDE0MzM0ODAyODgsLTIwNzE1OTYyMyw4MjM5NDMxODcsNj
-M2Nzg4MTM0LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLTE2MDI2
-MjM0MTUsLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4Ny
-wxNzU0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbMTA4NzAxOTk2NSwtOTQ0NjkwNjMsLTQwMj
+A1NzgyMiwtMjAyNTUxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcw
+NDEyLDEyMDUwNjA2MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLD
+gyMzk0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzEx
+MjYxMywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMj
+MsODMwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
 -->
