@@ -118,6 +118,7 @@ public static void main(String[] args){
 ```
 ### Static
 ```ts
+TypeScript
 class  MyClass {
 	static  x = 0;
 	static  printX() {
@@ -126,6 +127,11 @@ class  MyClass {
 }
 MyClass.printX();
 ```
+```python
+Python
+class MyCla
+```
+
 
 
 
@@ -133,10 +139,10 @@ MyClass.printX();
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA1NzgyMiwtMjAyNTUxMTI2OSwxMT
-U1Njc0ODM1LC0xNDAxNzcwNDEyLDEyMDUwNjA2MDAsMTQzMzQ4
-MDI4OCwtMjA3MTU5NjIzLDgyMzk0MzE4Nyw2MzY3ODgxMzQsLT
-cxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYyMzQxNSwtNzE1
-MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcyMjg3LDE3NTQyMzE1MD
-VdfQ==
+eyJoaXN0b3J5IjpbNTYzOTk4Mzk3LC00MDIwNTc4MjIsLTIwMj
+U1MTEyNjksMTE1NTY3NDgzNSwtMTQwMTc3MDQxMiwxMjA1MDYw
+NjAwLDE0MzM0ODAyODgsLTIwNzE1OTYyMyw4MjM5NDMxODcsNj
+M2Nzg4MTM0LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLTE2MDI2
+MjM0MTUsLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4Ny
+wxNzU0MjMxNTA1XX0=
 -->
