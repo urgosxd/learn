@@ -117,7 +117,15 @@ public static void main(String[] args){
 }
 ```
 ### Static
-
+```ts
+class  MyClass {
+	static  x = 0;
+	static  printX() {
+	console.log(MyClass.x);
+	}
+}
+MyClass.printX();
+```
 
 
 
@@ -125,10 +133,10 @@ public static void main(String[] args){
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzAwMjI3LC0yMDI1NTExMjY5LDExNT
-U2NzQ4MzUsLTE0MDE3NzA0MTIsMTIwNTA2MDYwMCwxNDMzNDgw
-Mjg4LC0yMDcxNTk2MjMsODIzOTQzMTg3LDYzNjc4ODEzNCwtNz
-EzMTM0MjYxLC0xMjQ3MTEyNjEzLC0xNjAyNjIzNDE1LC03MTUx
-NTExODYsLTE5Mjk5MDIyMyw4MzA0NzIyODcsMTc1NDIzMTUwNV
-19
+eyJoaXN0b3J5IjpbLTQwMjA1NzgyMiwtMjAyNTUxMTI2OSwxMT
+U1Njc0ODM1LC0xNDAxNzcwNDEyLDEyMDUwNjA2MDAsMTQzMzQ4
+MDI4OCwtMjA3MTU5NjIzLDgyMzk0MzE4Nyw2MzY3ODgxMzQsLT
+cxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYyMzQxNSwtNzE1
+MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcyMjg3LDE3NTQyMzE1MD
+VdfQ==
 -->
