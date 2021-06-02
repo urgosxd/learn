@@ -129,7 +129,14 @@ MyClass.printX();
 ```
 ```python
 Python
-class MyCla
+class MyClass{
+	x = 0
+	@staticmethod
+	def printX(){
+		print(MyClass.x)
+}
+}
+MyClass.printX()
 ```
 
 
@@ -139,10 +146,10 @@ class MyCla
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzOTk4Mzk3LC00MDIwNTc4MjIsLTIwMj
-U1MTEyNjksMTE1NTY3NDgzNSwtMTQwMTc3MDQxMiwxMjA1MDYw
-NjAwLDE0MzM0ODAyODgsLTIwNzE1OTYyMyw4MjM5NDMxODcsNj
-M2Nzg4MTM0LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLTE2MDI2
-MjM0MTUsLTcxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4Ny
-wxNzU0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbLTIxMzg1MzI1NTgsLTQwMjA1NzgyMiwtMj
+AyNTUxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcwNDEyLDEyMDUw
+NjA2MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLDgyMzk0MzE4Ny
+w2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYw
+MjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcyMj
+g3LDE3NTQyMzE1MDVdfQ==
 -->
