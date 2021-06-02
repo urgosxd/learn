@@ -143,7 +143,10 @@ class MyClass{
 	public static void printX(){
 	System.out.println(MyClass.x);
 }
-public class
+public class helloWorld{
+	public static void main(String[] args){
+	MyClass.printX();
+}
 }
 
 ```
@@ -155,10 +158,10 @@ public class
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzAxOTk2NSwtOTQ0NjkwNjMsLTQwMj
-A1NzgyMiwtMjAyNTUxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcw
-NDEyLDEyMDUwNjA2MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLD
-gyMzk0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzEx
-MjYxMywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMj
-MsODMwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
+eyJoaXN0b3J5IjpbNzM1NDg0MzQ0LC05NDQ2OTA2MywtNDAyMD
+U3ODIyLC0yMDI1NTExMjY5LDExNTU2NzQ4MzUsLTE0MDE3NzA0
+MTIsMTIwNTA2MDYwMCwxNDMzNDgwMjg4LC0yMDcxNTk2MjMsOD
+IzOTQzMTg3LDYzNjc4ODEzNCwtNzEzMTM0MjYxLC0xMjQ3MTEy
+NjEzLC0xNjAyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5MDIyMy
+w4MzA0NzIyODcsMTc1NDIzMTUwNV19
 -->
