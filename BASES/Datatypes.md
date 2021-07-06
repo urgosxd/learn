@@ -20,6 +20,13 @@ Java
 final static MiVariable
 int MyInt = 34
 ```
+```kotlin
+Java
+var HelloV:string = "variable"
+val HelloC:string = "
+
+```
+
 ## Datatypes:
 |JS -TypeScript  |Python  |Java  |
 |--|--|--|
@@ -29,10 +36,11 @@ int MyInt = 34
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNjEyNjkzLC0yMDY4MjgxOTMxLDMxMT
-YxMjY5MywxMzU3MjQyODkxLDE2ODM4MzY0MDUsNTc0NDYxMzYx
-LDkxODE5Mjg0NCwtMTYzNDQ4MjIwMSw1MDUwOTU5ODksLTkzNj
-IzNzgyNiwtMTMyNzE1MTg0OSwxMTY0NTYwNDAxLDIwMDU5Mjg0
-MywtMTc1MjA4Njc0NSw0MDEyODUxMTUsLTc5MDE4OTc3MSwtMT
-E1NzMzMzEyOSwtMTIwNDQyODYzOSwxNjE5OTM1MjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTE0MjMxMTksMzExNjEyNjkzLC0yMD
+Y4MjgxOTMxLDMxMTYxMjY5MywxMzU3MjQyODkxLDE2ODM4MzY0
+MDUsNTc0NDYxMzYxLDkxODE5Mjg0NCwtMTYzNDQ4MjIwMSw1MD
+UwOTU5ODksLTkzNjIzNzgyNiwtMTMyNzE1MTg0OSwxMTY0NTYw
+NDAxLDIwMDU5Mjg0MywtMTc1MjA4Njc0NSw0MDEyODUxMTUsLT
+c5MDE4OTc3MSwtMTE1NzMzMzEyOSwtMTIwNDQyODYzOSwxNjE5
+OTM1MjNdfQ==
 -->
