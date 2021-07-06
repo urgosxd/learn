@@ -1,8 +1,8 @@
 # Datatypes
 ## Variables o constantes:
-|JS -TypeScript  |Python  |Java  |
-|--|--|--|
-|- let , const|mypy Final  | static final
+|JS -TypeScript  |Python  |Java  |Kotlin|
+|--|--|--|--|
+|- let , const|mypy Final  | static final|s
  
 ```ts
 TypeScript
@@ -29,10 +29,10 @@ int MyInt = 34
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzI0Mjg5MSwxNjgzODM2NDA1LDU3ND
-Q2MTM2MSw5MTgxOTI4NDQsLTE2MzQ0ODIyMDEsNTA1MDk1OTg5
-LC05MzYyMzc4MjYsLTEzMjcxNTE4NDksMTE2NDU2MDQwMSwyMD
-A1OTI4NDMsLTE3NTIwODY3NDUsNDAxMjg1MTE1LC03OTAxODk3
-NzEsLTExNTczMzMxMjksLTEyMDQ0Mjg2MzksMTYxOTkzNTIzXX
-0=
+eyJoaXN0b3J5IjpbLTIxNDI2NTY3NTEsMTM1NzI0Mjg5MSwxNj
+gzODM2NDA1LDU3NDQ2MTM2MSw5MTgxOTI4NDQsLTE2MzQ0ODIy
+MDEsNTA1MDk1OTg5LC05MzYyMzc4MjYsLTEzMjcxNTE4NDksMT
+E2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NTIwODY3NDUsNDAxMjg1
+MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0Mjg2Mz
+ksMTYxOTkzNTIzXX0=
 -->
