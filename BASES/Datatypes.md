@@ -2,7 +2,7 @@
 ## Variables o constantes:
 |JS -TypeScript  |Python  |Java  |Kotlin|
 |--|--|--|--|
-|- let , const|mypy Final  | static final|s
+|- let , const| mypy-Final  | -static final|-var, val
  
 ```ts
 TypeScript
@@ -29,10 +29,10 @@ int MyInt = 34
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI2NTY3NTEsMTM1NzI0Mjg5MSwxNj
-gzODM2NDA1LDU3NDQ2MTM2MSw5MTgxOTI4NDQsLTE2MzQ0ODIy
-MDEsNTA1MDk1OTg5LC05MzYyMzc4MjYsLTEzMjcxNTE4NDksMT
-E2NDU2MDQwMSwyMDA1OTI4NDMsLTE3NTIwODY3NDUsNDAxMjg1
-MTE1LC03OTAxODk3NzEsLTExNTczMzMxMjksLTEyMDQ0Mjg2Mz
-ksMTYxOTkzNTIzXX0=
+eyJoaXN0b3J5IjpbMzExNjEyNjkzLDEzNTcyNDI4OTEsMTY4Mz
+gzNjQwNSw1NzQ0NjEzNjEsOTE4MTkyODQ0LC0xNjM0NDgyMjAx
+LDUwNTA5NTk4OSwtOTM2MjM3ODI2LC0xMzI3MTUxODQ5LDExNj
+Q1NjA0MDEsMjAwNTkyODQzLC0xNzUyMDg2NzQ1LDQwMTI4NTEx
+NSwtNzkwMTg5NzcxLC0xMTU3MzMzMTI5LC0xMjA0NDI4NjM5LD
+E2MTk5MzUyM119
 -->
