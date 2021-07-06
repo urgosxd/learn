@@ -21,9 +21,9 @@ final static MiVariable
 int MyInt = 34
 ```
 ```kotlin
-Java
-var HelloV:string = "variable"
-val HelloC:string = "
+Kotlin
+lateinit var HelloV:string 
+lateinit val HelloC:string 
 
 ```
 
@@ -36,7 +36,7 @@ val HelloC:string = "
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE0MjMxMTksMzExNjEyNjkzLC0yMD
+eyJoaXN0b3J5IjpbLTEwNDU0NTgzNTQsMzExNjEyNjkzLC0yMD
 Y4MjgxOTMxLDMxMTYxMjY5MywxMzU3MjQyODkxLDE2ODM4MzY0
 MDUsNTc0NDYxMzYxLDkxODE5Mjg0NCwtMTYzNDQ4MjIwMSw1MD
 UwOTU5ODksLTkzNjIzNzgyNiwtMTMyNzE1MTg0OSwxMTY0NTYw
