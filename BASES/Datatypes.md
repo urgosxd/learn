@@ -5,7 +5,7 @@
 |- let , const| mypy-Final  | -static final|-var, val
  
 ```ts
-TypeScripti
+TypeScriptii
 declare let hello
 declare const bye
 
@@ -29,7 +29,7 @@ int MyInt = 34
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ0NjAzOTAsMzExNjEyNjkzLDEzNT
+eyJoaXN0b3J5IjpbLTIwNjgyODE5MzEsMzExNjEyNjkzLDEzNT
 cyNDI4OTEsMTY4MzgzNjQwNSw1NzQ0NjEzNjEsOTE4MTkyODQ0
 LC0xNjM0NDgyMjAxLDUwNTA5NTk4OSwtOTM2MjM3ODI2LC0xMz
 I3MTUxODQ5LDExNjQ1NjA0MDEsMjAwNTkyODQzLC0xNzUyMDg2
