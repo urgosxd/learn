@@ -61,6 +61,7 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 
 ```
 ```kotlin
+Kotlin
 fun main() {
     val p = Hero("Huscar","Streight")
     p.print()
@@ -171,10 +172,10 @@ public class helloWorld{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDIyODc0Myw3MzU0ODQzNDQsLTk0ND
-Y5MDYzLC00MDIwNTc4MjIsLTIwMjU1MTEyNjksMTE1NTY3NDgz
-NSwtMTQwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLT
-IwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQy
-NjEsLTEyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4Ni
-wtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
+eyJoaXN0b3J5IjpbNDYxOTc1NTMyLDczNTQ4NDM0NCwtOTQ0Nj
+kwNjMsLTQwMjA1NzgyMiwtMjAyNTUxMTI2OSwxMTU1Njc0ODM1
+LC0xNDAxNzcwNDEyLDEyMDUwNjA2MDAsMTQzMzQ4MDI4OCwtMj
+A3MTU5NjIzLDgyMzk0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2
+MSwtMTI0NzExMjYxMywtMTYwMjYyMzQxNSwtNzE1MTUxMTg2LC
+0xOTI5OTAyMjMsODMwNDcyMjg3LDE3NTQyMzE1MDVdfQ==
 -->
