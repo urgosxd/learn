@@ -60,6 +60,19 @@ Primero veremos la forma general de declarar una clase, con atributos, construct
 	}
 
 ```
+```kotlin
+fun main() {
+    val p = Hero("Huscar","Streight")
+    p.print()
+    
+}
+
+class Hero(val name:String,val attribute:String){
+    fun print(){
+        println("$name"+" "+"$attribute")
+    }
+}
+```
 ## Particularidades
 ### Abstraction
 
@@ -158,10 +171,10 @@ public class helloWorld{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NDg0MzQ0LC05NDQ2OTA2MywtNDAyMD
-U3ODIyLC0yMDI1NTExMjY5LDExNTU2NzQ4MzUsLTE0MDE3NzA0
-MTIsMTIwNTA2MDYwMCwxNDMzNDgwMjg4LC0yMDcxNTk2MjMsOD
-IzOTQzMTg3LDYzNjc4ODEzNCwtNzEzMTM0MjYxLC0xMjQ3MTEy
-NjEzLC0xNjAyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5MDIyMy
-w4MzA0NzIyODcsMTc1NDIzMTUwNV19
+eyJoaXN0b3J5IjpbLTY1MDIyODc0Myw3MzU0ODQzNDQsLTk0ND
+Y5MDYzLC00MDIwNTc4MjIsLTIwMjU1MTEyNjksMTE1NTY3NDgz
+NSwtMTQwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLT
+IwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQy
+NjEsLTEyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4Ni
+wtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMxNTA1XX0=
 -->
