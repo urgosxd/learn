@@ -180,7 +180,22 @@ public class helloWorld{
 	MyClass.printX();
 }
 }
+```
+```kotlin
+Kotlin
+fun main() {
+    ConsoleUtils.printX()
+    
+}
 
+class ConsoleUtils {
+    companion object {
+        var x = 0
+        fun printX() {
+            println(x)
+    }    
+   }
+}
 ```
 
 
@@ -190,11 +205,11 @@ public class helloWorld{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODU0Mjk4LDQ2MTk3NTUzMiw0NjE5Nz
-U1MzIsNzM1NDg0MzQ0LC05NDQ2OTA2MywtNDAyMDU3ODIyLC0y
-MDI1NTExMjY5LDExNTU2NzQ4MzUsLTE0MDE3NzA0MTIsMTIwNT
-A2MDYwMCwxNDMzNDgwMjg4LC0yMDcxNTk2MjMsODIzOTQzMTg3
-LDYzNjc4ODEzNCwtNzEzMTM0MjYxLC0xMjQ3MTEyNjEzLC0xNj
-AyNjIzNDE1LC03MTUxNTExODYsLTE5Mjk5MDIyMyw4MzA0NzIy
-ODddfQ==
+eyJoaXN0b3J5IjpbLTM1NDUzMTE5OSwtMzk4NTQyOTgsNDYxOT
+c1NTMyLDQ2MTk3NTUzMiw3MzU0ODQzNDQsLTk0NDY5MDYzLC00
+MDIwNTc4MjIsLTIwMjU1MTEyNjksMTE1NTY3NDgzNSwtMTQwMT
+c3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLTIwNzE1OTYy
+Myw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQyNjEsLTEyND
+cxMTI2MTMsLTE2MDI2MjM0MTUsLTcxNTE1MTE4NiwtMTkyOTkw
+MjIzXX0=
 -->
