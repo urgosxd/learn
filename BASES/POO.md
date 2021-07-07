@@ -130,6 +130,23 @@ public static void main(String[] args){
 }
 }
 ```
+```kotlin
+fun main() {
+    val p = Planta()
+    p.comer()
+    
+}
+
+abstract class SerVivo(){
+    abstract fun comer()
+}
+
+class Planta():SerVivo(){
+    override fun comer(){
+        println("Fotosintesis")
+    }
+}
+```
 ### Static
 ```ts
 TypeScript
@@ -172,11 +189,11 @@ public class helloWorld{
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxOTc1NTMyLDQ2MTk3NTUzMiw3MzU0OD
-QzNDQsLTk0NDY5MDYzLC00MDIwNTc4MjIsLTIwMjU1MTEyNjks
-MTE1NTY3NDgzNSwtMTQwMTc3MDQxMiwxMjA1MDYwNjAwLDE0Mz
-M0ODAyODgsLTIwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0
-LC03MTMxMzQyNjEsLTEyNDcxMTI2MTMsLTE2MDI2MjM0MTUsLT
-cxNTE1MTE4NiwtMTkyOTkwMjIzLDgzMDQ3MjI4NywxNzU0MjMx
-NTA1XX0=
+eyJoaXN0b3J5IjpbMjEyMzg5MjkyMSw0NjE5NzU1MzIsNDYxOT
+c1NTMyLDczNTQ4NDM0NCwtOTQ0NjkwNjMsLTQwMjA1NzgyMiwt
+MjAyNTUxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcwNDEyLDEyMD
+UwNjA2MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLDgyMzk0MzE4
+Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMT
+YwMjYyMzQxNSwtNzE1MTUxMTg2LC0xOTI5OTAyMjMsODMwNDcy
+Mjg3XX0=
 -->
