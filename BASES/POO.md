@@ -77,7 +77,7 @@ class Hero(val name:String,val attribute:String){
 ## Particularidades
 ### This
 #### Caso Javascript
-"this" en javascript se refiere al 
+**"this"** en **function ()** se refiere al "nearest Object" el objecto mas cercano y el 
 ```ts
 
 ```
@@ -220,7 +220,7 @@ class ConsoleUtils {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDMxNzc1OCwxNjQyNjY0OTU0LC0xMj
+eyJoaXN0b3J5IjpbMTA3ODU1NjQ2NCwxNjQyNjY0OTU0LC0xMj
 U5MjExNjkxLC05MDU2MDcxNDcsLTM1NDUzMTE5OSwtMzk4NTQy
 OTgsNDYxOTc1NTMyLDQ2MTk3NTUzMiw3MzU0ODQzNDQsLTk0ND
 Y5MDYzLC00MDIwNTc4MjIsLTIwMjU1MTEyNjksMTE1NTY3NDgz
