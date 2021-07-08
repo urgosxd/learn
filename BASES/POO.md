@@ -77,7 +77,7 @@ class Hero(val name:String,val attribute:String){
 ## Particularidades
 ### This
 #### Caso Javascript
-**"this"** en **function ()** se refiere al "nearest Object" el objecto mas cercano y el 
+**"this"** en **function ()** se refiere al "nearest Object" el objecto mas cercano y **this** en **arrow ()=>** se refiere al "lexical scope" el 
 ```ts
 
 ```
@@ -220,11 +220,11 @@ class ConsoleUtils {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODU1NjQ2NCwxNjQyNjY0OTU0LC0xMj
-U5MjExNjkxLC05MDU2MDcxNDcsLTM1NDUzMTE5OSwtMzk4NTQy
-OTgsNDYxOTc1NTMyLDQ2MTk3NTUzMiw3MzU0ODQzNDQsLTk0ND
-Y5MDYzLC00MDIwNTc4MjIsLTIwMjU1MTEyNjksMTE1NTY3NDgz
-NSwtMTQwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLT
-IwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQy
-NjFdfQ==
+eyJoaXN0b3J5IjpbNjgwNTMxMTUsMTY0MjY2NDk1NCwtMTI1OT
+IxMTY5MSwtOTA1NjA3MTQ3LC0zNTQ1MzExOTksLTM5ODU0Mjk4
+LDQ2MTk3NTUzMiw0NjE5NzU1MzIsNzM1NDg0MzQ0LC05NDQ2OT
+A2MywtNDAyMDU3ODIyLC0yMDI1NTExMjY5LDExNTU2NzQ4MzUs
+LTE0MDE3NzA0MTIsMTIwNTA2MDYwMCwxNDMzNDgwMjg4LC0yMD
+cxNTk2MjMsODIzOTQzMTg3LDYzNjc4ODEzNCwtNzEzMTM0MjYx
+XX0=
 -->
