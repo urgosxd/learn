@@ -76,11 +76,15 @@ class Hero(val name:String,val attribute:String){
 ```
 ## Particularidades
 ### This
+#### Caso Javascript
+"this" en javascript se refiere al 
 ```ts
 
 ```
 ```python
 ```
+### Java
+Se refiere a la instancia en todo momento, lenguaje estrictamente OOP
 ```java
 ```
 ```kotlin
@@ -216,11 +220,11 @@ class ConsoleUtils {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjY2NDk1NCwtMTI1OTIxMTY5MSwtOT
-A1NjA3MTQ3LC0zNTQ1MzExOTksLTM5ODU0Mjk4LDQ2MTk3NTUz
-Miw0NjE5NzU1MzIsNzM1NDg0MzQ0LC05NDQ2OTA2MywtNDAyMD
-U3ODIyLC0yMDI1NTExMjY5LDExNTU2NzQ4MzUsLTE0MDE3NzA0
-MTIsMTIwNTA2MDYwMCwxNDMzNDgwMjg4LC0yMDcxNTk2MjMsOD
-IzOTQzMTg3LDYzNjc4ODEzNCwtNzEzMTM0MjYxLC0xMjQ3MTEy
-NjEzXX0=
+eyJoaXN0b3J5IjpbLTYwMDMxNzc1OCwxNjQyNjY0OTU0LC0xMj
+U5MjExNjkxLC05MDU2MDcxNDcsLTM1NDUzMTE5OSwtMzk4NTQy
+OTgsNDYxOTc1NTMyLDQ2MTk3NTUzMiw3MzU0ODQzNDQsLTk0ND
+Y5MDYzLC00MDIwNTc4MjIsLTIwMjU1MTEyNjksMTE1NTY3NDgz
+NSwtMTQwMTc3MDQxMiwxMjA1MDYwNjAwLDE0MzM0ODAyODgsLT
+IwNzE1OTYyMyw4MjM5NDMxODcsNjM2Nzg4MTM0LC03MTMxMzQy
+NjFdfQ==
 -->
