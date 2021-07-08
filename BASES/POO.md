@@ -1,4 +1,4 @@
-# POO
+# OOP
 Primero veremos la forma general de declarar una clase, con atributos, constructor y sus respectivos metodos.
 ```ts
 	TypeScript
@@ -206,11 +206,11 @@ class ConsoleUtils {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTYwNzE0NywtMzU0NTMxMTk5LC0zOT
-g1NDI5OCw0NjE5NzU1MzIsNDYxOTc1NTMyLDczNTQ4NDM0NCwt
-OTQ0NjkwNjMsLTQwMjA1NzgyMiwtMjAyNTUxMTI2OSwxMTU1Nj
-c0ODM1LC0xNDAxNzcwNDEyLDEyMDUwNjA2MDAsMTQzMzQ4MDI4
-OCwtMjA3MTU5NjIzLDgyMzk0MzE4Nyw2MzY3ODgxMzQsLTcxMz
-EzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYyMzQxNSwtNzE1MTUx
-MTg2XX0=
+eyJoaXN0b3J5IjpbLTEyNTkyMTE2OTEsLTkwNTYwNzE0NywtMz
+U0NTMxMTk5LC0zOTg1NDI5OCw0NjE5NzU1MzIsNDYxOTc1NTMy
+LDczNTQ4NDM0NCwtOTQ0NjkwNjMsLTQwMjA1NzgyMiwtMjAyNT
+UxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcwNDEyLDEyMDUwNjA2
+MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLDgyMzk0MzE4Nyw2Mz
+Y3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYy
+MzQxNV19
 -->
