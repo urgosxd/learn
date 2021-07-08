@@ -1,5 +1,5 @@
 # OOP
-Primero veremos la forma general de declarar una clase, con atributos, constructor y sus respectivos metodos.
+## Clase Ideal
 ```ts
 	TypeScript
 	class Hero{
@@ -206,11 +206,11 @@ class ConsoleUtils {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkyMTE2OTEsLTkwNTYwNzE0NywtMz
-U0NTMxMTk5LC0zOTg1NDI5OCw0NjE5NzU1MzIsNDYxOTc1NTMy
-LDczNTQ4NDM0NCwtOTQ0NjkwNjMsLTQwMjA1NzgyMiwtMjAyNT
-UxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcwNDEyLDEyMDUwNjA2
-MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLDgyMzk0MzE4Nyw2Mz
-Y3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzExMjYxMywtMTYwMjYy
-MzQxNV19
+eyJoaXN0b3J5IjpbLTE1MjQxOTc0ODEsLTEyNTkyMTE2OTEsLT
+kwNTYwNzE0NywtMzU0NTMxMTk5LC0zOTg1NDI5OCw0NjE5NzU1
+MzIsNDYxOTc1NTMyLDczNTQ4NDM0NCwtOTQ0NjkwNjMsLTQwMj
+A1NzgyMiwtMjAyNTUxMTI2OSwxMTU1Njc0ODM1LC0xNDAxNzcw
+NDEyLDEyMDUwNjA2MDAsMTQzMzQ4MDI4OCwtMjA3MTU5NjIzLD
+gyMzk0MzE4Nyw2MzY3ODgxMzQsLTcxMzEzNDI2MSwtMTI0NzEx
+MjYxM119
 -->
